@@ -347,3 +347,11 @@
     ➡️ Dosya formatı kavramı
     ➡️ Örnek programlar
 
+## 📌Network işlemleri
+    ➡️ TCP/IP işlemleri
+    ➡️ UDP işlemleri
+    
+## 📌Extra Bazı Konular
+
+
+    
